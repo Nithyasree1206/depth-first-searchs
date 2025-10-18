@@ -115,7 +115,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
 ## Output:
-<img width="441" height="273" alt="image" src="https://github.com/user-attachments/assets/f84a2cb8-6f78-43b9-971c-b5fe0cf720bc" />
+<img width="269" height="154" alt="image" src="https://github.com/user-attachments/assets/bf9e1a0d-4101-40e7-8f26-6edc200fb7b8" />
 
 
 <hr>
